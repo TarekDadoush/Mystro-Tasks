@@ -39,3 +39,24 @@ body{
     color: #198754 !important;
     background-color: transparent;
 }
+
+.socials{
+    color: white;
+    text-decoration: none;
+}
+.socials:hover{
+    color:#198754
+}
+.heart{
+    color: red;
+}
+.heart:hover{
+    color:#198754;
+}
+
+.designer{
+    color: white;
+}
+.designer:hover{
+    color: #198754;
+}
